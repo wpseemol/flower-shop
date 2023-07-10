@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* site default style */
+.d-flix {
+    display: flex;
+}
+
+.jut-content {
+    justify-content: space-between
+}
+
+.ali-center {
+    align-items: center;
+}
+
+/* site header nav style */
+
+
+/* site mani content style */
+
+/* site footer style */
