@@ -7,11 +7,19 @@
 /* site default style */
 body {
     font-family: 'Lato', sans-serif;
-    font-weight: 400;
 }
 
 h2 {
+    color: #272727;
+    font-size: 40px;
     font-weight: 900;
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
 }
 
 .site-container {
@@ -29,6 +37,17 @@ h2 {
 
 .ali-center {
     align-items: center;
+}
+
+/* primary button style  */
+.primary-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: #E55473;
+    padding: 20px 43px;
+    border-radius: 8px;
+    border: none;
 }
 
 /* site header nav style */
