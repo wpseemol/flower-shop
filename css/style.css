@@ -138,8 +138,29 @@ p {
     font-weight: 600;
 }
 
+/* dicount section style */
+.discount-section-bg {
+    background: rgba(229, 84, 115, 0.05);
+}
 
+.discount-section {
+    justify-content: space-around;
+    padding: 25px 35px;
+}
 
+.discount-section div {
+    padding: 35px 110px;
+    text-align: center;
+
+}
+
+.discount-section div h2, button {
+    margin: 15px 0;
+}
+
+.discount-section span{
+    color: #E55473;
+}
 
 
 
