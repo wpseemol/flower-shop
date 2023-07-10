@@ -219,3 +219,36 @@ button {
 
 
 /* site footer style */
+
+.footer-bg {
+    background-color: #111010;
+}
+
+.footer-section {
+    color: #FFF;
+    text-align: center;
+    padding: 110px 0;
+    margin: 0 auto;
+    width: 40%;
+}
+
+.footer-section span {
+    color: #E55473;
+}
+
+.footer-section h2 {
+    color: #FFF;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+.footer-section p {
+    color: rgba(255, 255, 255, 0.90);
+    margin-bottom: 30px;
+}
+
+.footer-section h4 {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
