@@ -5,6 +5,11 @@
 }
 
 /* site default style */
+
+.sit-container {
+    width: 1440px;
+}
+
 .d-flix {
     display: flex;
 }
