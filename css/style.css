@@ -122,6 +122,24 @@ p {
     color: #272727;
 }
 
+/* delivery section style */
+.delivery-section {
+    background: rgba(39, 39, 39, 0.05);
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 70px 0;
+    padding: 65px 25px;
+    border-radius: 8px;
+}
+
+.delivery-section h3 {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
+
 
 
 
