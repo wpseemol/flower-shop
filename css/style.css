@@ -206,8 +206,9 @@ button {
     color: #272727;
     font-size: 25px;
     font-weight: 400;
-    
+
 }
+
 .service h2 {
     margin: 40px 0;
 
@@ -228,33 +229,6 @@ button {
     background: #fff;
     padding-right: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* social media section style */
 .social-media-section {
     text-align: center;
@@ -266,7 +240,7 @@ button {
     margin: 25px auto;
 }
 
-.social-media-detels h2{
+.social-media-detels h2 {
     margin-bottom: 15px;
 }
 
@@ -286,7 +260,7 @@ button {
 }
 
 .subcribe-section div {
-    margin: 50px 0 
+    margin: 50px 0
 }
 
 .subcribe-section h2 {
@@ -310,11 +284,7 @@ button {
 .subcribe-section button {
     height: 65px;
 }
-
-
-
 /* site footer style */
-
 .footer-bg {
     background-color: #111010;
 }
