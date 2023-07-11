@@ -23,8 +23,9 @@ p {
 }
 
 .site-container {
-    width: 1440px;
+    width: 75%;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .d-flix {
@@ -60,16 +61,13 @@ p {
 
 }
 
-.hero-text-content {
-    width: 50%;
-}
-
 .hero-section h2 {
-    font-size: 80px;
+    font-size: 60px;
+    padding-right: 160px;
 }
 
 .hero-section p {
-    padding: 25px 85px 0 0;
+    padding: 25px 160px 0 0;
 }
 
 .hero-section button {
@@ -83,25 +81,36 @@ p {
 /* site mani content style */
 .featur-content {
     text-align: center;
-    margin: 55px 0;
+}
+
+.featur-text-content {
+    width: 40%;
+    margin: 55px auto;
 }
 
 .featur-content h2 {
     padding: 20px 0;
 }
 
-.featur-content p {
-    padding: 0 410px 50px;
+.product-container {
+    justify-content: center;
+    gap: 15px;
+}
+
+.content {
+    width: 30%;
+    
+    overflow: hidden;
 }
 
 .content div {
-    width: 465px;
+    align-items: end;
+    justify-content: center;
     height: 538px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    justify-content: space-evenly;
-    align-items: end;
 }
+
 
 .prodact-bg-1 {
     background: rgba(167, 33, 98, 0.15);
@@ -185,7 +194,7 @@ button {
 .service-img-section {
     border: solid 3px #493718;
     margin: 140px auto;
-    width: 1200px;
+    width: 85%;
     height: 660px;
     gap: 40px;
     text-align: center;
@@ -244,19 +253,26 @@ button {
     margin-bottom: 15px;
 }
 
+.social-media-pic {
+    justify-content: center;
+    gap: 15px;
+}
+
 .social-media-pic div {
     width: 340px;
     height: 395px;
+    object-fit: cover;
 }
 
 /* Subscribe section style */
 .subcribe-section {
     background-image: url("../img/Rectangle9.png");
     background-repeat: no-repeat;
+    background-position: center;
     height: 450px;
     text-align: center;
     margin: 125px 0;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .subcribe-section div {
@@ -286,7 +302,9 @@ button {
 }
 /* site footer style */
 .footer-bg {
-    background-color: #111010;
+    
+    background: #111010;
+    
 }
 
 .footer-section {
