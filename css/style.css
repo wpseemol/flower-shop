@@ -251,7 +251,7 @@ button {
 
 /* Subscribe section style */
 .subcribe-section {
-    background-image: url("/img/Rectangle9.png");
+    background-image: url("../img/Rectangle9.png");
     background-repeat: no-repeat;
     height: 450px;
     text-align: center;
